@@ -1,5 +1,8 @@
 # 🧠 Python Project - Topic Modeling on YouTube Comments (NLP)
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange)
+
 This project performs **Topic Modeling using NLP techniques** on real YouTube comments using the YouTube Data API v3. It extracts top comments from videos on a specific topic (e.g., "Tech Reviews") and uncovers dominant themes discussed by the audience.
 
 
